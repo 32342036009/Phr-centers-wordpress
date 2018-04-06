@@ -1,0 +1,2 @@
+18-12-2017 04:56:12 - ERROR - m: 37.3 MB, u: 1 - mail> Subject empty, skipped
+18-12-2017 04:59:23 - ERROR - m: 37.3 MB, u: 1 - mail> Subject empty, skipped
